@@ -1,0 +1,25 @@
+tmp
+bin
+build
+libs
+dist
+*.zip
+
+.classpath
+
+xcuserdata
+build.properties
+
+Thumbs.db
+.DS_Store
+
+# Test app
+#test/
+
+android/example
+android/assets
+android/documentation
+ios/example
+ios/assets
+ios/documentation
+
